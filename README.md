@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [educational-platform-managment](https://github.com/AyKrimino/educational-platform-managment) and [donation-system-java-swing](https://github.com/AyKrimino/donation-system-java-swing)
 
-- 🌱 I’m currently learning **Golan and Java**
+- 🌱 I’m currently learning **Golang and Java**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ayoub-krimi/](https://www.linkedin.com/in/ayoub-krimi/)
 
