@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aykrimino" alt="aykrimino" /></a> </p>
 
-- 🔭 I’m currently working on [educational-platform-managment](https://github.com/AyKrimino/educational-platform-managment)
+- 🔭 I’m currently working on [educational-platform-managment](https://github.com/AyKrimino/educational-platform-managment) and [donation-system-java-swing](https://github.com/AyKrimino/donation-system-java-swing)
 
-- 🌱 I’m currently learning **React Js and Java**
+- 🌱 I’m currently learning **Golan and Java**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ayoub-krimi/](https://www.linkedin.com/in/ayoub-krimi/)
 
