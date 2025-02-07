@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aykrimino" alt="aykrimino" /></a> </p>
 
-- 🔭 I’m currently working on [Pathfinding-Visualizer](https://github.com/AyKrimino/Pathfinding-Visualizer.git)
+- 🔭 I’m currently working on [JobSeekerAPI](https://github.com/AyKrimino/JobSeekerAPI)
 
 - 🌱 I’m currently learning **Golang**
 
