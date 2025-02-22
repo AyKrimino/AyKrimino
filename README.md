@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [JobSeekerAPI](https://github.com/AyKrimino/JobSeekerAPI)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang & PHP**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ayoub-krimi/](https://www.linkedin.com/in/ayoub-krimi/)
 
