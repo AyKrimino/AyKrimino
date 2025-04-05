@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aykrimino" alt="aykrimino" /></a> </p>
 
-- 🔭 I’m currently working on [JobSeekerAPI](https://github.com/AyKrimino/JobSeekerAPI) and [E-CommercePHP](https://github.com/Mahdi-Mouldi/E-CommercePHP)
+- 🔭 I’m currently working on [JobSeekerAPI](https://github.com/AyKrimino/JobSeekerAPI) and [classic-php-store](https://github.com/AyKrimino/classic-php-store)
 
 - 🌱 I’m currently learning **Golang & PHP**
 
