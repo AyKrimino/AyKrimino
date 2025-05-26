@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aykrimino" alt="aykrimino" /></a> </p>
 
-- 🔭 I’m currently working on [JobSeekerAPI](https://github.com/AyKrimino/JobSeekerAPI)
+- 🔭 I’m currently working on [SysAct](https://github.com/AyKrimino/SysAct)
 
-- 🌱 I’m currently learning **Golang & PHP**
+- 🌱 I’m currently learning **Golang**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ayoub-krimi/](https://www.linkedin.com/in/ayoub-krimi/)
 
