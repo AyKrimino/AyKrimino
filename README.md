@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [SysAct](https://github.com/AyKrimino/SysAct)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang & Spring boot**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ayoub-krimi/](https://www.linkedin.com/in/ayoub-krimi/)
 
