@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aykrimino" alt="aykrimino" /></a> </p>
 
-- 🔭 I’m currently working on [SysAct](https://github.com/AyKrimino/SysAct) & [wallpaper-api](https://github.com/AyKrimino/wallpaper-api)
+- 🔭 I’m currently working on [wallpaper-api](https://github.com/AyKrimino/wallpaper-api)
 
 - 🌱 I’m currently learning **Golang & Spring boot**
 
