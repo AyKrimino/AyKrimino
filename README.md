@@ -4,7 +4,6 @@
 <h3 align="center">🚀 Backend Developer | Golang & Python & Django | Problem Solver</h3>
 <p align="center">
   <em>Turning ideas into scalable APIs and robust backends.<br>
-  Currently building <b>Wallpaper API</b> and exploring Nestjs.</em>
 </p>
 
 ---
