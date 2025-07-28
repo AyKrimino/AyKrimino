@@ -1,7 +1,7 @@
 <img align="center" alt="backend development banner" src="https://media.licdn.com/dms/image/D4E12AQHJ33Vk3PBm5A/article-cover_image-shrink_600_2000/0/1679499121542?e=2147483647&v=beta&t=Fy41uyTz_qPjfEOPNohY8QAaRbxBMBwdK-hPDS_j60g" />
 
 <h1 align="center">Hi 👋, I'm Ayoub Krimi</h1>
-<h3 align="center">🚀 Backend Developer | Python & Django | Problem Solver</h3>
+<h3 align="center">🚀 Backend Developer | Golang & Python & Django | Problem Solver</h3>
 <p align="center">
   <em>Turning ideas into scalable APIs and robust backends.<br>
   Currently building <b>Wallpaper API</b> and exploring Nestjs.</em>
@@ -13,9 +13,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently working on:** [Wallpaper API](https://github.com/AyKrimino/wallpaper-api)
-- 🌱 **Learning:** Golang, Spring Boot
-- 💡 **Ask me about:** Python, Django, Django Rest Framework
+- 🔭 **Currently working on:** ScribeHost (newsletter & blogging platform)
+- 🌱 **Learning:** -
+- 💡 **Ask me about:** Golang, Python, Django, Django Rest Framework
 - ✍️ **Writing:** [LinkedIn Articles](https://www.linkedin.com/in/ayoub-krimi/)
 - ⚡ **Fun Fact:** I can type at a speed of 100 words per minute!
 
