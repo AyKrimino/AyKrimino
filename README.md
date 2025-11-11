@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 **Currently working on:** ScribeHost (newsletter & blogging platform)
-- 🌱 **Learning:** -
+- 🌱 **Learning:** System Design - Distributed Systems
 - 💡 **Ask me about:** Golang, Python, Django, Django Rest Framework
 - ✍️ **Writing:** [LinkedIn Articles](https://www.linkedin.com/in/ayoub-krimi/)
 - ⚡ **Fun Fact:** I can type at a speed of 100 words per minute!
