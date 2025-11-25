@@ -26,18 +26,20 @@
 ### 🏆 Achievements & Stats
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aykrimino&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=aykrimino&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </div>
+  
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aykrimino&theme=algolia&margin-w=10" alt="Trophies" />
   </a>
 </p>
 
-<!-- Refreshed stats row: consistent theme and compact layout -->
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aykrimino&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="AyKrimino's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aykrimino&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aykrimino&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aykrimino&show_icons=true&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykrimino&layout=compact&theme=rose_pine" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aykrimino&theme=rose_pine" />
 </p>
 
 ---
