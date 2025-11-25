@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-* 🔭 **Currently working on:** **ScribeHost** — a newsletter & blogging platform
+* 🔭 **Currently working on:** **kriminoDB** — a distributed key-value Redis-Like in-memory store
 * 🌱 **Learning:** System Design · Distributed Systems
 * 💡 **Ask me about:** Golang, Python, Django, Django REST Framework
 * ✍️ **Writing:** [LinkedIn Articles](https://www.linkedin.com/in/ayoub-krimi/)
@@ -98,12 +98,11 @@
 
 <!-- Right column: coding animation + short callouts -->
 
-  <img alt="Coding animation" width="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTF5aDM2c2wxaGpoYjV0ZTk1M3lpNGRoMWU3M3hiZGR3dHR0eGE4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" style="border-radius:8px; box-shadow: 0 8px 24px rgba(2,6,23,0.12)" />
+  <img alt="Coding animation" width="320" src="https://media1.tenor.com/m/8UGqas00V1cAAAAC/primeagen-the-primeagen.gif" style="border-radius:8px; box-shadow: 0 8px 24px rgba(2,6,23,0.12)" />
 
   <h4>Featured</h4>
   <p style="text-align:left; max-width:320px">
-    • **ScribeHost** — Newsletter & blogging platform (in progress)
-    <br>• **kriminoDB** — experiments with gossip & distributed systems (personal repo)
+    • <strong>kriminoDB</strong> — experiments with gossip & distributed systems (personal repo)
   </p>
 
   <hr style="width:80%" />
