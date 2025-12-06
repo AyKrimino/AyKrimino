@@ -28,8 +28,16 @@
 <p align="left">
 
   <div>
-    <img src="https://komarev.com/ghpvc/?username=aykrimino&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <p align="center">
+      <a href="https://github.com/AyKrimino?tab=repositories&sort=stargazers">
+        <img height=20 alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/AyKrimino"/></a>
+      <a href="https://github.com/AyKrimino?tab=followers">
+        <img height=20 alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/AyKrimino?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+     <img src="https://komarev.com/ghpvc/?username=aykrimino&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    </p>
   </div>
+
+  
   
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aykrimino&theme=algolia&margin-w=10" alt="Trophies" />
@@ -37,9 +45,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aykrimino&show_icons=true&theme=rose_pine" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykrimino&layout=compact&theme=rose_pine" />
+  <img src="https://beautiful-github-homepage.vercel.app/api?username=aykrimino&hide_title=true&show_icons=true&theme=rose_pine&include_all_commits=true" />
+  <img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=aykrimino&hide_title=false&layout=compact&theme=rose_pine&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aykrimino&theme=rose_pine" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=AyKrimino&bg_color=191724&color=F6C177&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 
 ---
@@ -125,5 +134,5 @@
 </details>
 
 <footer align="center">
-  <p style="font-size:0.9rem; color:#6b7280">Made with ❤️ • Last updated: 2025-11-25</p>
+  <p style="font-size:0.9rem; color:#6b7280">Made with ❤️ • Last updated: 2025-12-06</p>
 </footer>
