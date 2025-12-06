@@ -9,57 +9,62 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
+## 👨‍💻 About Me
 
-### 👨‍💻 About Me
-
-* 🔭 **Currently working on:** **kriminoDB** — a distributed key-value Redis-Like in-memory store
-* 🌱 **Learning:** System Design · Distributed Systems
-* 💡 **Ask me about:** Golang, Python, Django, Django REST Framework
-* ✍️ **Writing:** [LinkedIn Articles](https://www.linkedin.com/in/ayoub-krimi/)
+* 🔭 **Currently working on:** **kriminoDB** — a distributed key-value Redis-Like in-memory store  
+* 🌱 **Learning:** System Design · Distributed Systems  
+* 💡 **Ask me about:** Golang, Python, Django, Django REST Framework  
+* ✍️ **Writing:** [LinkedIn Articles](https://www.linkedin.com/in/ayoub-krimi/)  
 * ⚡ **Fun Fact:** I can type at a speed of **100 words per minute!**
 
 ---
 
-### 🏆 Achievements & Stats
+## 🏆 Achievements & Stats
 
-<p align="left">
+<p align="center">
+  <a href="https://github.com/AyKrimino?tab=repositories&sort=stargazers">
+    <img height=20 alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/AyKrimino"/>
+  </a>
+  <a href="https://github.com/AyKrimino?tab=followers">
+    <img height=20 alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/AyKrimino?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=aykrimino&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-  <div>
-    <p align="center">
-      <a href="https://github.com/AyKrimino?tab=repositories&sort=stargazers">
-        <img height=20 alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/AyKrimino"/></a>
-      <a href="https://github.com/AyKrimino?tab=followers">
-        <img height=20 alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/AyKrimino?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-     <img src="https://komarev.com/ghpvc/?username=aykrimino&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-    </p>
-  </div>
-
-  
-  
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aykrimino&theme=algolia&margin-w=10" alt="Trophies" />
   </a>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://beautiful-github-homepage.vercel.app/api?username=aykrimino&hide_title=true&show_icons=true&theme=rose_pine&include_all_commits=true" />
-  <img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=aykrimino&hide_title=false&layout=compact&theme=rose_pine&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aykrimino&theme=rose_pine" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=AyKrimino&bg_color=191724&color=F6C177&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img width="50%" src="https://beautiful-github-homepage.vercel.app/api?username=aykrimino&hide_title=true&show_icons=true&theme=rose_pine&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img width="50%" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=aykrimino&hide_title=false&layout=compact&theme=rose_pine&count_private=true" />
+</p>
+
+<p align="center">
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=aykrimino&theme=rose_pine" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph/?username=AyKrimino&bg_color=191724&color=F6C177&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <details>
   <summary>Click to expand</summary>
 
   <p>
-    <!-- Consistent icon sizes and spacing for a cleaner grid -->
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="36" height="36" style="margin:6px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="36" height="36" style="margin:6px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="36" height="36" style="margin:6px"/>
@@ -82,57 +87,53 @@
     <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" width="36" height="36" style="margin:6px"/>
     <img src="https://go.dev/images/gophers/blue.svg" alt="Golang" width="36" height="36" style="margin:6px"/>
   </p>
+
 </details>
 
 ---
 
-### 🌐 Let's Connect!
+## 🧩 Featured Project
 
-<p>
+<p align="center">
+  <img alt="Coding animation" width="320" src="https://media1.tenor.com/m/8UGqas00V1cAAAAC/primeagen-the-primeagen.gif" style="border-radius:8px; box-shadow: 0 8px 24px rgba(2,6,23,0.12)" />
+</p>
+
+<p align="center" style="max-width:400px">
+  • <strong>kriminoDB</strong> — experiments with gossip & distributed systems (personal repo)
+</p>
+
+<p align="center" style="font-size:0.9rem; color:#6b7280; max-width:400px">
+  Always open to collaborate on backend projects and interview prep.  
+  If you like my work, feel free to <b>star</b> or <b>follow</b> — it helps a lot ✨
+</p>
+
+---
+
+## 🌐 Let's Connect!
+
+<p align="center">
   <a href="https://twitter.com/ayoub_krimi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="36" style="margin:6px"/></a>
   <a href="https://linkedin.com/in/ayoub-krimi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="36" style="margin:6px"/></a>
   <a href="https://stackoverflow.com/users/17779958" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="36" style="margin:6px"/></a>
-  <a href="https://www.facebook.com/ayoub.krimi.533536" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="36" style="margin:6px"/></a>
   <a href="https://www.hackerrank.com/ayoub_krimi14" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="36" style="margin:6px"/></a>
   <a href="https://codeforces.com/profile/ayoub.krimi14" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="36" style="margin:6px"/></a>
   <a href="https://www.leetcode.com/KRIMINO" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="36" style="margin:6px"/></a>
 </p>
 
-<p><b>📫 Reach me by email:</b> <a href="mailto:ayoub.krimi14@gmail.com">ayoub.krimi14@gmail.com</a></p>
-
----
-
-</td>
-    <td width="40%" valign="top" align="center">
-
-<!-- Right column: coding animation + short callouts -->
-
-  <img alt="Coding animation" width="320" src="https://media1.tenor.com/m/8UGqas00V1cAAAAC/primeagen-the-primeagen.gif" style="border-radius:8px; box-shadow: 0 8px 24px rgba(2,6,23,0.12)" />
-
-  <h4>Featured</h4>
-  <p style="text-align:left; max-width:320px">
-    • <strong>kriminoDB</strong> — experiments with gossip & distributed systems (personal repo)
-  </p>
-
-  <hr style="width:80%" />
-
-  <p style="font-size:0.9rem; color:#6b7280; max-width:320px">Always open to collaborate on backend projects and interview prep. If you like my work, feel free to <b>star</b> or <b>follow</b> — it helps a lot ✨</p>
-
-</td>
-  </tr>
-</table>
+<p align="center"><b>📫 Reach me by email:</b> <a href="mailto:ayoub.krimi14@gmail.com">ayoub.krimi14@gmail.com</a></p>
 
 ---
 
 <details>
   <summary>📚 <b>More About Me</b></summary>
 
-* 👨‍🎓 Computer Science enthusiast from Tunisia
-* 💬 Always happy to talk backend and open source!
-* 🏆 Love to participate in coding challenges
+* 👨‍🎓 Computer Science enthusiast from Tunisia  
+* 💬 Always happy to talk backend and open source!  
+* 🏆 Love to participate in coding challenges  
 
 </details>
 
 <footer align="center">
   <p style="font-size:0.9rem; color:#6b7280">Made with ❤️ • Last updated: 2025-12-06</p>
 </footer>
+
