@@ -43,6 +43,7 @@
 
 <p align="center">
   <img width="50%" src="https://beautiful-github-homepage.vercel.app/api?username=aykrimino&hide_title=true&show_icons=true&theme=rose_pine&include_all_commits=true" />
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aykrimino&theme=rose_pine&utcOffset=1&border_radius=10" />
 </p>
 
 <p align="center">
@@ -56,7 +57,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph/?username=AyKrimino&bg_color=191724&color=F6C177&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph/?username=AyKrimino&bg_color=191724&color=F6C177&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 
 ---
