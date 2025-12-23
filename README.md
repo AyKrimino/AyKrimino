@@ -46,11 +46,13 @@
 </p>
 
 <p align="center">
-  <img width="50%" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=aykrimino&hide_title=false&layout=compact&theme=rose_pine&count_private=true" />
+  <img width="30%" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=aykrimino&hide_title=false&layout=compact&theme=rose_pine&count_private=true" />
+  <img width="28.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aykrimino&theme=rose_pine&exclude=html,css&border_radius=10" />
+  <img width="28.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aykrimino&theme=rose_pine&border_radius=10" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=aykrimino&theme=rose_pine" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=aykrimino&theme=rose_pine" alt="streak-stats" />
 </p>
 
 <p align="center">
