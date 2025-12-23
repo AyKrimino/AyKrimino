@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=aykrimino&theme=rose_pine" alt="streak-stats" />
+  <img width="50%" src="https://github-readme-streak-stats-mocha-phi.vercel.app/?user=aykrimino&theme=rose_pine&hide_border=true&border_radius=10" alt="streak-stats" />
 </p>
 
 <p align="center">
