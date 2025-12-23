@@ -11,8 +11,8 @@
 
 ## 👨‍💻 About Me
 
-* 🔭 **Currently working on:** **kriminoDB** — a distributed key-value Redis-Like in-memory store  
-* 🌱 **Learning:** System Design · Distributed Systems  
+* 🔭 **Currently working on:** **ScribeHost** — a newsletter & blogging platform  
+* 🌱 **Learning:** System Design · Distributed Systems · Microservices
 * 💡 **Ask me about:** Golang, Python, Django, Django REST Framework  
 * ✍️ **Writing:** [LinkedIn Articles](https://www.linkedin.com/in/ayoub-krimi/)  
 * ⚡ **Fun Fact:** I can type at a speed of **100 words per minute!**
