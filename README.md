@@ -42,14 +42,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="50%" src="https://beautiful-github-homepage.vercel.app/api?username=aykrimino&hide_title=true&show_icons=true&theme=rose_pine&include_all_commits=true" />
-  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aykrimino&theme=rose_pine&utcOffset=1&border_radius=10" />
+  <img width="50%" alt="profile-stats" src="https://beautiful-github-homepage.vercel.app/api?username=aykrimino&hide_title=true&show_icons=true&theme=rose_pine&include_all_commits=true" />
+  <img width="30%" alt="commit-stats" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aykrimino&theme=rose_pine&utcOffset=1&border_radius=10" />
 </p>
 
 <p align="center">
-  <img width="30%" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=aykrimino&hide_title=false&layout=compact&theme=rose_pine&count_private=true" />
-  <img width="28.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aykrimino&theme=rose_pine&exclude=html,css&border_radius=10" />
-  <img width="28.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aykrimino&theme=rose_pine&border_radius=10" />
+  <img width="30%" alt="top-langs-stats" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=aykrimino&hide_title=false&layout=compact&theme=rose_pine&count_private=true" />
+  <img width="28.5%" alt="top-langs-per-repos-stats" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aykrimino&theme=rose_pine&exclude=html,css&border_radius=10" />
+  <img width="28.5%" alt="top-langs-per-commits-stats" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aykrimino&theme=rose_pine&border_radius=10" />
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph/?username=AyKrimino&bg_color=191724&color=F6C177&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img width="80%" alt="commit-stats" src="https://github-readme-activity-graph.vercel.app/graph/?username=AyKrimino&bg_color=191724&color=F6C177&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 
 ---
