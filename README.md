@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-* 🔭 **Currently working on:** **ScribeHost** — a newsletter & blogging platform  
+* 🔭 **Currently working on:** **idk**  
 * 🌱 **Learning:** System Design · Distributed Systems · Microservices
 * 💡 **Ask me about:** Golang, Python, Django, Django REST Framework  
 * ✍️ **Writing:** [LinkedIn Articles](https://www.linkedin.com/in/ayoub-krimi/)  
